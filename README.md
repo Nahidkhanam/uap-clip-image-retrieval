@@ -212,7 +212,7 @@ The learned universal perturbation successfully reduces retrieval performance wh
 .
 ├── dataset/
 │   ├── flickr30k_images/
-│   └── results.csv
+│ 
 │
 ├── notebooks/
 │   └── UAP_CLIP_Retrieval.ipynb
@@ -221,10 +221,12 @@ The learned universal perturbation successfully reduces retrieval performance wh
 │   ├── loss_curve.png
 │   ├── uap.png
 │   ├── comparison.png
+│   ├── recall_bar_chart.png
 │   ├── baseline_similarity.png
 │   ├── adv_similarity.png
-│   └── results.csv
+│   └── img_text_similarity.png
 │
+├── requirements.txt
 └── README.md
 
 ```
